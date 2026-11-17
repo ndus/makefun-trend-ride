@@ -1,6 +1,8 @@
 # Trend Ride — BTC Race Bot
 
-![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/ndus/makefun-trend-ride/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/ndus/makefun-trend-ride/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
 
 Entry for the make.fun competition **btc-race-24h-20261117-0603** ("Race a BTC trading bot live for 24 hours"): a bot that trades cbBTC on 1-minute bars (Orca Whirlpool prices) with $1,000 of paper money under the `agent-fun/bars-replay/v1` protocol.
 
